@@ -36,9 +36,9 @@ Questo tutorial spiega come importare su GitHub un progetto già esistente in lo
 
 ## 3) Aggiornare un repository
 
-1. Modificare del contenuto nei file del progetto a piacere.
-
 1. Aprire una sessione di PowerShell in radice del progetto.
+
+1. Modificare del contenuto nei file del progetto a piacere.
 
 1. Eseguire `git add .`.
 
