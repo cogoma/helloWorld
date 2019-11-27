@@ -12,7 +12,6 @@ jobs:
     - name: Setup Dotnet for use with actions
       uses: actions/setup-dotnet@v1.0.0
       with:
-        # Version to use. E.g. 2.2.104
-        version: '3.0.100'
+        version: '3.0.101'
     - name: Build with dotnet
       run: dotnet build --configuration Release
